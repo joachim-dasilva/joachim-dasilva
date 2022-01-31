@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joachim-dasilva
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning different Web Languages (JavaScript, HTML, CSS, PHP)
+- 🌱 I’m know different Web Languages (JavaScript, HTML, CSS, PHP, +VueJS, +React Native, +Symfony, +SCSS)
 - 📫 How to reach me : dasilvajoachim34@gmail.com
 
 <!---
